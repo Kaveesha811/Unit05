@@ -1,0 +1,15 @@
+{
+    "101": {
+        "grade": "D",
+        "marks": {
+            "Computer Science": 88.0,
+            "English": 42.0,
+            "History": 85.0,
+            "Mathematics": 75.0,
+            "Science": 58.0
+        },
+        "name": "Kaveesha",
+        "percentage": 69.6,
+        "total_marks": 348.0
+    }
+}
